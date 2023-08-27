@@ -1,0 +1,3 @@
+{
+   "dotnet.defaultSolution": "server/src/src.sln"
+}

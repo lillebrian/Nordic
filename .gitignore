@@ -1,2 +1,6 @@
 /server/src/appsettings.Development.json
 /server/src/appsettings.json
+/server/src/obj
+server/src/obj/project.nuget.cache
+server/src/obj/src.csproj.nuget.dgspec.json
+client/package-lock.json
