@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PxPeGgsZU7t12xOZZT21dyPuUtBD44vvlIoJycpMbPbBplGgBwhzKTDe3GLOd3Wz87hBikNUNnFcvHjpSwrMug==",
+  "dgSpecHash": "8OWlacqwDBnxi74DZjet+uiuaLv3UvIhC3Vsq8WevTWxJzLJpnIqF9qasRt0BYbztIrOBe33P8Hy3KF+B8E1rA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\2100m\\source\\repos\\Nordic\\server\\Web\\src.csproj",
+  "projectFilePath": "C:\\Users\\2100m\\source\\repos\\Nordic\\server\\web\\NordicAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2100m\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\2100m\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

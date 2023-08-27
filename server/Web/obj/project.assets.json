@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\2100m\\source\\repos\\Nordic\\server\\Web\\src.csproj",
-      "projectName": "src",
-      "projectPath": "c:\\Users\\2100m\\source\\repos\\Nordic\\server\\Web\\src.csproj",
+      "projectUniqueName": "C:\\Users\\2100m\\source\\repos\\Nordic\\server\\web\\NordicAPI.csproj",
+      "projectName": "NordicAPI",
+      "projectPath": "C:\\Users\\2100m\\source\\repos\\Nordic\\server\\web\\NordicAPI.csproj",
       "packagesPath": "C:\\Users\\2100m\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\2100m\\source\\repos\\Nordic\\server\\Web\\obj\\",
+      "outputPath": "C:\\Users\\2100m\\source\\repos\\Nordic\\server\\web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2100m\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,3 +4,5 @@
 server/src/obj/project.nuget.cache
 server/src/obj/src.csproj.nuget.dgspec.json
 client/package-lock.json
+/server/web/bin
+/server/web/obj
