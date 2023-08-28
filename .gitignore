@@ -6,3 +6,4 @@ server/src/obj/src.csproj.nuget.dgspec.json
 client/package-lock.json
 /server/web/bin
 /server/web/obj
+client/package-lock.json
